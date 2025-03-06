@@ -1,0 +1,18 @@
+body {
+    margin: 0 auto;
+    width: 1920px;
+}
+
+.container {
+    width: 840px;
+    margin: 0 auto;
+}
+button {
+    border-radius: 6px;
+    background-color: aquamarine;
+}
+
+button:hover {
+    background-color: aqua;
+    cursor: pointer;
+}
